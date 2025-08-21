@@ -1,22 +1,30 @@
-# Welcome to React Router!
+# ResumeX- AI Powered ATS(Application Tracking System)
+_This Project is Under Development_
+ResumeX is an **AI-powered Applicant Tracking System (ATS)** that makes hiring smarter and faster.  
+Built with **React, React Router, and Puter.js**, it helps recruiters and candidates by streamlining the resume evaluation process.  
 
-A modern, production-ready template for building full-stack React applications using React Router.
+## ✨ Features
+- 📄 **AI Resume Analyzer** – Upload candidate resumes and get instant AI-driven insights.  
+- 🏢 **Job Listings** – Create and manage job postings easily.  
+- 🤖 **Smart Matching** – Automatically match resumes with job requirements.  
+- ⚡ **Modern Stack** – Powered by **React, React Router, and Puter.js** for a smooth user experience.  
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+## 🛠️ Tech Stack
+- **Frontend**: React + React Router  
+- **AI & Backend Integration**: Puter.js  
+- **Resume Parsing & Matching**: AI-powered algorithms  
 
-## Features
+## 🚧 Project Status
+This project is currently **under development**.  
+New features Like  **RAG Chat-Bot*** and improvements will be added frequently. Stay tuned!  
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+## 💡 Getting Started
+1. Clone the repo:  
+   ```bash
+   git clone  https://github.com/rishikesh04/ResumeX-AI-Powered-Resume-Analyzer.git
 
-## Getting Started
 
-### Installation
+
 
 Install the dependencies:
 
@@ -54,34 +62,5 @@ docker build -t my-app .
 # Run the container
 docker run -p 3000:3000 my-app
 ```
-
-The containerized application can be deployed to any platform that supports Docker, including:
-
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
-
-### DIY Deployment
-
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
-
----
-
-Built with ❤️ using React Router.
+# Vision
+ResumeX aims to redefine recruitment by automating resume screening and helping companies find the right talent quickly.
